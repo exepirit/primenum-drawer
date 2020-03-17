@@ -18,7 +18,7 @@ Generating an image with a specified color.
 
 `pixel_size` - scale
 
-`colorK` - color in RGB/255
+`colorK` - color in `RGB/255.0`
 
 `n` - number of images
 
